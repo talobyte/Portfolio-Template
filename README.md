@@ -46,10 +46,10 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rammcodes/dopefolio
+$ git clone https://github.com/alphaotuken/Portfolio-Template
 
 # Go into the repository
-$ cd dopefolio
+$ cd Portfolio-Template
 
 # Remove current origin repository
 $ git remote remove origin
