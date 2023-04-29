@@ -5,7 +5,7 @@
 ## [Demo Link](https://dopefolio.netlify.app) 🔗
 
 <div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Demo Image" width="100%" />
+  <img src="assets/jpeg/image_2023-04-29_193211389.png" alt="Demo Image" width="100%" />
   <br>
 </div>
 
