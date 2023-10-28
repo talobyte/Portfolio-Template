@@ -16,25 +16,25 @@
 
 ## Features
 
-- ### **Easy to Setup 💯** 
-- ### **Free to Use ( OpenSource ) 🥳** 
-- ### **No Additional Frameworks 🤘** 
-- ### **No Additional Libraries 🙌** 
-- ### **Multi Page 💎** 
-- ### **Fully Responsive 🚀** 
-- ### **Super Fast and Optimized for SEO ⚡** 
-- ### **Great Audits Score 🎖️** 
+- ### **Easy to Setup 
+- ### **Free to Use ( OpenSource ) 
+- ### **No Additional Frameworks 
+- ### **No Additional Libraries 
+- ### **Multi Page 
+- ### **Fully Responsive 
+- ### **Super Fast and Optimized for SEO 
+- ### **Great Audits Score 
 
 ----
 
 <br/>
 
-## Technologies used 🛠️
+## Technologies used 
 
-- **HTML** 🚀
-- **CSS** 🚀
-- **JavaScript** 🚀
-- **SASS** 🚀
+- **HTML** 
+- **CSS** 
+- **JavaScript** 
+- **SASS** 
 
 ---
 
@@ -46,7 +46,7 @@ From your command line, first clone Dopefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/alphaotuken/Portfolio-Template
+$ git clone https://github.com/talobyte/Portfolio-Template
 
 # Go into the repository
 $ cd Portfolio-Template
@@ -109,7 +109,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Talha Isik** - **[Twitter](https://twitter.com/taloisik)**, **[Github](https://github.com/alphaotuken)**, **[Portfolio](https://talfolio.com)**  
+- **Talha Isik** - **[Twitter](https://twitter.com/taloisik)**, **[Github](https://github.com/talobyte)**, **[Portfolio](https://talfolio.com)**  
 
 <br>
 
